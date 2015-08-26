@@ -1,0 +1,16 @@
+{
+  "name": "bowertest",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kichalla/bowertest",
+  "authors": [
+    "Kiran Challa <kichalla@microsoft.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower.json", "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
